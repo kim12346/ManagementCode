@@ -1,4 +1,4 @@
-# pythonmanagement
+# PythonManagement
 #### 과제용
 
 - 성적관리프로그램
